@@ -1,0 +1,7 @@
+.heading {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #a10000ff;
+    color: #000000ff; /* ou #000000 */
+    padding: 8px;
+}
